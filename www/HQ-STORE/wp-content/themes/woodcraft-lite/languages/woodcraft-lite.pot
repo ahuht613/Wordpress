@@ -1,0 +1,333 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Woodcraft Lite\n"
+"POT-Creation-Date: 2022-09-20 14:47+0530\n"
+"PO-Revision-Date: 2022-09-20 14:47+0530\n"
+"Last-Translator: \n"
+"Language-Team: AlexaThemes Team <support@alexathemes.net>\n"
+"Language: English\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.5.7\n"
+"X-Poedit-KeywordsList: _;gettext;gettext_noop;esc_html_e;esc_attr_e;_e;__\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+
+#: 404.php:15
+msgid "<strong>404</strong> Not Found"
+msgstr ""
+
+#: 404.php:18
+msgid ""
+"Looks like you have taken a wrong turn.....<br />Do Not worry... it happens "
+"to the best of us."
+msgstr ""
+
+#: comments.php:35
+#: comments.php:53
+msgid "Comment navigation"
+msgstr ""
+
+#: comments.php:63
+msgid "Comments are closed."
+msgstr ""
+
+#: content-page.php:19
+#: content-single.php:29
+#: content.php:36
+msgid "Pages:"
+msgstr ""
+
+#: content-page.php:24
+#: content-single.php:41
+msgid "Edit"
+msgstr ""
+
+#: content-single.php:34
+#: content.php:13
+msgid ", "
+msgstr ""
+
+#: content-single.php:35
+msgid " | Tags: "
+msgstr ""
+
+#: content.php:28
+msgid "Read More &raquo;"
+msgstr ""
+
+#: content.php:32
+msgid "Continue reading <span class=\"meta-nav\">&rarr;</span>"
+msgstr ""
+
+#: footer.php:15
+msgid "Y"
+msgstr ""
+
+#: footer.php:15
+msgid ". Powered by WordPress"
+msgstr ""
+
+#: functions.php:32
+msgid "Primary Menu"
+msgstr ""
+
+#: functions.php:86
+msgid "Blog Sidebar"
+msgstr ""
+
+#: functions.php:87
+msgid "Appears on blog page sidebar"
+msgstr ""
+
+#: header.php:31
+msgid "Skip to content"
+msgstr ""
+
+#: no-results.php:11
+msgid "Nothing Found"
+msgstr ""
+
+#: no-results.php:17
+#, php-format
+msgid ""
+"Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr ""
+
+#: no-results.php:19
+msgid ""
+"Sorry, but nothing matched your search terms. Please try again with some "
+"different keywords."
+msgstr ""
+
+#: no-results.php:22
+msgid ""
+"It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps "
+"searching can help."
+msgstr ""
+
+#: sidebar.php:12
+msgid "Archives"
+msgstr ""
+
+#: sidebar.php:18
+msgid "Meta"
+msgstr ""
+
+#: inc/block-patterns.php:17
+msgid "Introduction"
+msgstr ""
+
+#: inc/block-patterns.php:18
+#: inc/patterns/services.php:6
+msgid "Services"
+msgstr ""
+
+#: inc/block-patterns.php:19
+msgid "Team Members"
+msgstr ""
+
+#: inc/block-patterns.php:20
+msgid "Call To Action"
+msgstr ""
+
+#: inc/customizer.php:43
+msgid "Color Scheme"
+msgstr ""
+
+#: inc/customizer.php:44
+msgid "Select theme main color from here."
+msgstr ""
+
+#: inc/customizer.php:57
+msgid "Header Background Color"
+msgstr ""
+
+#: inc/customizer.php:58
+msgid "Select background color for header."
+msgstr ""
+
+#: inc/customizer.php:71
+msgid "Footer Background Color"
+msgstr ""
+
+#: inc/customizer.php:72
+msgid "Select background color for footer."
+msgstr ""
+
+#: inc/customizer.php:89
+msgid "Setting Up Top Bar Information"
+msgstr ""
+
+#: inc/customizer.php:91
+msgid "Setup top bar information here."
+msgstr ""
+
+#: inc/customizer.php:102
+msgid "Add Address here."
+msgstr ""
+
+#: inc/customizer.php:113
+msgid "Add Email Address here."
+msgstr ""
+
+#: inc/customizer.php:124
+msgid "Add Phone Number here."
+msgstr ""
+
+#: inc/customizer.php:135
+msgid "Add facebook url here."
+msgstr ""
+
+#: inc/customizer.php:146
+msgid "Add twitter url here."
+msgstr ""
+
+#: inc/customizer.php:157
+msgid "Add instagram url here."
+msgstr ""
+
+#: inc/customizer.php:168
+msgid "Add linkedin url here."
+msgstr ""
+
+#: inc/customizer.php:179
+msgid "Add google plus url here."
+msgstr ""
+
+#: inc/customizer.php:190
+msgid "Add youtube url here."
+msgstr ""
+
+#: inc/customizer.php:203
+msgid "Check this to top bar."
+msgstr ""
+
+#: inc/customizer.php:217
+msgid "Setting Up Theme Slider"
+msgstr ""
+
+#: inc/customizer.php:219
+msgid ""
+"Recommended image size (1600x900). Slider will work only when you select the "
+"static front page."
+msgstr ""
+
+#: inc/customizer.php:229
+msgid "Add sub title for all slides"
+msgstr ""
+
+#: inc/customizer.php:241
+msgid "Select page for slide one:"
+msgstr ""
+
+#: inc/customizer.php:253
+msgid "Select page for slide two:"
+msgstr ""
+
+#: inc/customizer.php:265
+msgid "Select page for slide three:"
+msgstr ""
+
+#: inc/customizer.php:275
+msgid "Add slider link button text."
+msgstr ""
+
+#: inc/customizer.php:290
+msgid "Check this to hide slider."
+msgstr ""
+
+#: inc/customizer.php:303
+msgid "Setting Up Services Section"
+msgstr ""
+
+#: inc/customizer.php:305
+msgid ""
+"Select pages for setting up first / Services section. This section will be "
+"displayed only when you select the static front page."
+msgstr ""
+
+#: inc/customizer.php:317
+msgid "Select page for 1st column"
+msgstr ""
+
+#: inc/customizer.php:329
+msgid "Select page for 2nd column"
+msgstr ""
+
+#: inc/customizer.php:341
+msgid "Select page for 3rd column"
+msgstr ""
+
+#: inc/customizer.php:354
+#: inc/customizer.php:420
+msgid "Check this to hide section."
+msgstr ""
+
+#: inc/customizer.php:369
+msgid "Setting Up About Us Section"
+msgstr ""
+
+#: inc/customizer.php:371
+msgid ""
+"Select pages for setting up second / About Us section. This section will be "
+"displayed only when you select the static front page."
+msgstr ""
+
+#: inc/customizer.php:381
+msgid "Add sub title text here."
+msgstr ""
+
+#: inc/customizer.php:395
+msgid "Select page for About Us Section"
+msgstr ""
+
+#: inc/customizer.php:405
+msgid "Add Read More text here."
+msgstr ""
+
+#: inc/template-tags.php:38
+msgid "Pingback:"
+msgstr ""
+
+#: inc/template-tags.php:57
+msgid "Your comment is awaiting moderation."
+msgstr ""
+
+#: inc/patterns/call-to-action-left.php:6
+msgid "Call to Action Left Text"
+msgstr ""
+
+#: inc/patterns/call-to-action.php:6
+msgid "Call to Action Center Text"
+msgstr ""
+
+#: inc/patterns/introduction-left-image.php:6
+msgid "Introduction With Image Left"
+msgstr ""
+
+#: inc/patterns/introduction-right-image.php:6
+msgid "Introduction With Image Right"
+msgstr ""
+
+#: inc/patterns/services-title-top.php:6
+msgid "Services With Title on Top"
+msgstr ""
+
+#: inc/patterns/team-membres-description.php:6
+msgid "Team Members With Description"
+msgstr ""
+
+#: inc/patterns/team-membres-without-description.php:6
+msgid "Team Members Without Description"
+msgstr ""
+
+#: inc/template-parts/navigation.php:3
+msgid "Menu"
+msgstr ""
+
+#: inc/template-parts/theme-slider.php:48
+#: inc/template-parts/theme-slider.php:50
+msgid "Read More"
+msgstr ""

@@ -1,0 +1,27 @@
+To: tranthuha06012003@gmail.com
+Subject: =?UTF-8?Q?[H&Q_Furniture]_H=C3=A3y_x=C3=A9t_duy=E1=BB=87t:_"?=
+ =?UTF-8?Q?B=C3=A0n_=C4=82n_M=E1=BB=9F_R=E1=BB=99ng_Concrete_?=
+ =?UTF-8?Q?160cm"?=
+Date: Sun, 31 Mar 2024 11:19:03 +0000
+From: WordPress <wordpress@hq-store.test>
+Message-ID: <nlJs0iJDcuT7M2Jw1NTSTYS7YjAGn1TzEMFL1sJlFKc@hq-store.test>
+X-Mailer: PHPMailer 6.8.1 (https://github.com/PHPMailer/PHPMailer)
+MIME-Version: 1.0
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 8bit
+
+Có một bình luận mới trong bài "Bàn Ăn Mở Rộng Concrete 160cm" đang chờ phê duyệt của bạn
+http://hq-store.test/san-pham/ban-an-mo-rong-concrete-160cm/
+
+Tác giả: Hong Ha (Địa chỉ IP: 127.0.0.1, HQ-CLOTHING.test)
+Email: tranhongha@gmail.com
+Đường dẫn: 
+Bình luận: 
+sp tot
+
+Chấp thuận: http://hq-store.test/wp-admin/comment.php?action=approve&c=19#wpbody-content
+Bỏ vào thùng rác: http://hq-store.test/wp-admin/comment.php?action=trash&c=19#wpbody-content
+Spam: http://hq-store.test/wp-admin/comment.php?action=spam&c=19#wpbody-content
+Hiện có 1 đang chờ được thông qua. Hãy vào trang xét duyệt:
+http://hq-store.test/wp-admin/edit-comments.php?comment_status=moderated#wpbody-content
+

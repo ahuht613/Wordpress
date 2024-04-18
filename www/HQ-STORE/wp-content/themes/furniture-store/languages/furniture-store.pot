@@ -1,0 +1,92 @@
+# Copyright (C) 2024 WpDevArt
+# This file is distributed under the GNU General Public License v2 or later.
+msgid ""
+msgstr ""
+"Project-Id-Version: Furniture Store 1.0.3\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/theme/furniture-store\n"
+"POT-Creation-Date: 2024-03-04 03:34:41+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2024-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+
+#: functions.php:157
+msgid "Primary Menu"
+msgstr ""
+
+#: functions.php:188
+msgid "Blog Sidebar"
+msgstr ""
+
+#: functions.php:189
+msgid "Default sidebar for blog/archive and post/page."
+msgstr ""
+
+#: functions.php:193
+msgid "Footer Large Widget"
+msgstr ""
+
+#: functions.php:194
+msgid "Large footer widget."
+msgstr ""
+
+#: functions.php:198
+msgid "Footer Widget 1"
+msgstr ""
+
+#: functions.php:199 functions.php:204 functions.php:209 functions.php:214
+msgid "A regular footer widget."
+msgstr ""
+
+#: functions.php:203
+msgid "Footer Widget 2"
+msgstr ""
+
+#: functions.php:208
+msgid "Footer Widget 3"
+msgstr ""
+
+#: functions.php:213
+msgid "Footer Widget 4"
+msgstr ""
+
+#: inc/customizer/custom-controls.php:106
+#: inc/customizer/custom-controls.php:149
+msgid "Upgrade Now"
+msgstr ""
+
+#: inc/customizer/sections/premium-link-section.php:11
+msgid "Furniture Store"
+msgstr ""
+
+#: inc/customizer/sections/premium-link-section.php:12
+msgid "Premium"
+msgstr ""
+
+#: template-parts/footer/footer-layout-four.php:60
+#: template-parts/footer/footer-layout-one.php:49
+#: template-parts/footer/footer-layout-three.php:49
+#: template-parts/footer/footer-layout-two.php:48
+msgid " %s Powered by WordPress."
+msgstr ""
+#. Theme Name of the plugin/theme
+msgid "Furniture Store"
+msgstr ""
+
+#. Theme URI of the plugin/theme
+msgid "https://wpdevart.com/wordpress-furniture-store-theme/"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid "Furniture Store is a multi-purpose WordPress theme. Using this theme, you can create any type of online store. The theme is integrated with WooCommerce, so creating an online store will take you little time. The theme is mainly designed for furniture stores, but you can also create any type of website such as blogs, portfolio websites, or any other e-commerce website. Furniture Store design is versatile and can also be used for other types of websites such as interior or home/apartment design, or even construction, medical, finance, or agriculture websites. This theme comes with all the necessary features to create different layouts and unique styles, so you can play with different settings and create your design. The custom homepage feature allows you to create a beautiful homepage design, you just need to enable this option and then edit/configure texts and settings. The custom homepage has a nice banner style and other sections that can be easily customized from the admin panel using the theme options. You can check out the demo site and see the WordPress Furniture Store theme in action. Whether you have a new feature request or an issue with our theme, we are here to provide support."
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "WpDevArt"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "https://wpdevart.com"
+msgstr ""

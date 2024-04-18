@@ -1,0 +1,433 @@
+msgid ""
+msgstr "" 
+"Project-Id-Version: Classic Ecommerce\n"
+"POT-Creation-Date: 2022-12-01 20:24+2\n"
+"PO-Revision-Date: 2022-12-01 20:24+2\n"
+"Last-Translator: \n"
+"Language-Team: classictemplate <support@theclassictemplates.com>\n"
+"Language: en_US\n"
+"MIME-Version: 0.1\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.2\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: _;__;_e;gettext;gettext_noop;esc_attr;esc_attr__;"
+"esc_attr_e;esc_html;esc_html__;esc_html_e\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: comments.php:67
+msgid "Comments are closed."
+msgstr ""
+
+#: content-page.php:20
+msgid "Pages:"
+msgstr ""
+
+#: content-page.php:24
+msgid "Edit"
+msgstr ""
+
+#: template-full-width.php:26
+msgid "Pages:"
+msgstr ""
+
+#: sidebar.php:12
+msgid "Archives"
+msgstr ""
+
+#: sidebar.php:18
+msgid "Meta"
+msgstr ""
+
+#: customizer.php:40
+msgid "Logo Width"
+msgstr ""
+
+#: customizer.php:57
+msgid "Enable Site Title"
+msgstr ""
+
+#: customizer.php:71
+msgid "Site Title Color"
+msgstr ""
+
+#: customizer.php:82
+msgid "Enable Site Tagline"
+msgstr ""
+
+#: customizer.php:96
+msgid "Site Tagline Color"
+msgstr ""
+
+#: customizer.php:102
+msgid "WooCommerce Page Settings"
+msgstr ""
+
+#: customizer.php:114
+msgid "Shop Page Sidebar"
+msgstr ""
+
+#: customizer.php:117
+msgid "Left Sidebar"
+msgstr ""
+
+#: customizer.php:118
+msgid "Right Sidebar"
+msgstr ""
+
+#: customizer.php:126
+msgid "Theme Options Panel"
+msgstr ""
+
+#: customizer.php:131
+msgid "Manage Site Layout Section"
+msgstr ""
+
+#: customizer.php:132
+msgid "<p class=\"sec-title\">Manage Site Layout Section</p>"
+msgstr ""
+
+#: customizer.php:143
+msgid "Check to Box Layout"
+msgstr ""
+
+#: customizer.php:154
+msgid "Check to show preloader"
+msgstr ""
+
+#: customizer.php:165
+msgid "Check to show top bar"
+msgstr ""
+
+#: customizer.php:176
+msgid "Check To Show Sticky Header"
+msgstr ""
+
+#: customizer.php:182
+msgid "Manage Header Section"
+msgstr ""
+
+#: customizer.php:183
+msgid "<p class=\"sec-title\">Manage Header Section</p>"
+msgstr ""
+
+#: customizer.php:196
+msgid "Add Offer Text"
+msgstr ""
+
+#: customizer.php:208
+msgid "Add Category Text"
+msgstr ""
+
+#: customizer.php:220
+msgid "Add Category Limit"
+msgstr ""
+
+#: customizer.php:234
+msgid "Header BG Color"
+msgstr ""
+
+#: customizer.php:241
+msgid "Manage Social media Section"
+msgstr ""
+
+#: customizer.php:242
+msgid "<p class=\"sec-title\">Manage Social media Section</p>"
+msgstr ""
+
+#: customizer.php:255
+msgid "Facebook Link"
+msgstr ""
+
+#: customizer.php:267
+msgid "Twitter Link"
+msgstr ""
+
+#: customizer.php:279
+msgid "Linkdin Link"
+msgstr ""
+
+#: customizer.php:291
+msgid "Instagram Link"
+msgstr ""
+
+#: customizer.php:303
+msgid "Youtube Link"
+msgstr ""
+
+#: customizer.php:317
+msgid "Social Icon Color"
+msgstr ""
+
+#: customizer.php:323
+msgid "Manage Slider Section"
+msgstr ""
+
+#: customizer.php:324
+msgid ""
+"<p class=\"sec-title\">Manage Slider Section</p> Select Category from the "
+"Dropdowns for slider, Also use the given image dimension (1200 x 450)."
+msgstr ""
+
+#: customizer.php:339
+msgid "Check To Enable This Section"
+msgstr ""
+
+#: customizer.php:350
+msgid "Select Category to display Slider"
+msgstr ""
+
+#: customizer.php:362
+msgid "Add Button Text"
+msgstr ""
+
+#: customizer.php:371
+msgid "Add Button Link"
+msgstr ""
+
+#: customizer.php:378
+msgid "Manage Recent product Section"
+msgstr ""
+
+#: customizer.php:379
+msgid ""
+"<p class=\"sec-title\">Manage Recent product Section</p> Add the below "
+"section title, Then use given shortcodes to show products. [products "
+"limit=\"4\" columns=\"2\" visibility=\"featured\" ], [products limit=\"3\" "
+"columns=\"3\" best_selling=\"true\" ], \n"
+"[products limit=\"8\" columns=\"4\" category=\"hoodies\" "
+"cat_operator=\"AND\"]"
+msgstr ""
+
+#: customizer.php:393
+msgid "Add Section Title"
+msgstr ""
+
+#: customizer.php:399
+msgid "Manage Post Section"
+msgstr ""
+
+#: customizer.php:411
+msgid "Theme Post Sidebar Position"
+msgstr ""
+
+#: customizer.php:412
+msgid "This option work for blog page, archive page and search page."
+msgstr ""
+
+#: customizer.php:415
+msgid "Full"
+msgstr ""
+
+#: customizer.php:416
+msgid "Left"
+msgstr ""
+
+#: customizer.php:417
+msgid "Right"
+msgstr ""
+
+#: customizer.php:418
+msgid "Three Columns"
+msgstr ""
+
+#: customizer.php:419
+msgid "Four Columns"
+msgstr ""
+
+#: customizer.php:420
+msgid "Grid Layout"
+msgstr ""
+
+#: customizer.php:430
+msgid "Post Description Length"
+msgstr ""
+
+#: customizer.php:433
+msgid "No Content"
+msgstr ""
+
+#: customizer.php:434
+msgid "Excerpt Content"
+msgstr ""
+
+#: customizer.php:435
+msgid "Full Content"
+msgstr ""
+
+#: customizer.php:441
+msgid "Mange Footer Section"
+msgstr ""
+
+#: customizer.php:442
+msgid "<p class=\"sec-title\">Manage Footer Section</p>"
+msgstr ""
+
+#: customizer.php:454
+msgid "Check to Enable Footer Widget"
+msgstr ""
+
+#: customizer.php:463
+msgid "Copyright Line"
+msgstr ""
+
+#: customizer.php:473
+msgid "Check To Show Scroll To Top"
+msgstr ""
+
+#: customizer.php:488
+msgid "Color Scheme 1"
+msgstr ""
+
+#: customizer.php:504
+msgid "Color Scheme 2"
+msgstr ""
+
+#: customizer.php:512
+msgid "Google Fonts"
+msgstr ""
+
+#: customizer.php:558
+msgid "Select your desired font for the headings."
+msgstr ""
+
+#: customizer.php:568
+msgid "Select your desired font for the body."
+msgstr ""
+
+#: customizer.php:578
+msgid "Click on the check box to remove sidebar from shop page."
+msgstr ""
+
+#: customizer.php:579
+msgid "Shop Page Sidebar layout"
+msgstr ""
+
+#: customizer.php:588
+msgid "Click on the check box to remove sidebar from product page."
+msgstr ""
+
+#: customizer.php:589
+msgid "Product Page Sidebar layout"
+msgstr ""
+
+#: header.php:32
+msgid "Skip to content"
+msgstr ""
+
+#: header.php:93
+msgid "MENU"
+msgstr ""
+
+#: header.php:97
+msgid "Top Menu"
+msgstr ""
+
+#: header.php:108
+msgid "CLOSE"
+msgstr ""
+
+#: header.php:155
+msgid "My Account"
+msgstr ""
+
+#: header.php:158
+msgid "Login / Register"
+msgstr ""
+
+#: header.php:164
+msgid "shopping cart"
+msgstr ""
+
+#: functions.php:42
+msgid "Primary Menu"
+msgstr ""
+
+#: functions.php:66
+msgid "Blog Sidebar"
+msgstr ""
+
+#: functions.php:67
+msgid "Appears on blog page sidebar"
+msgstr ""
+
+#: functions.php:76
+msgid "Page Sidebar"
+msgstr ""
+
+#: functions.php:78
+msgid "Add widgets here to appear in your sidebar on pages."
+msgstr ""
+
+#: functions.php:86
+msgid "Sidebar 3"
+msgstr ""
+
+#: functions.php:88
+msgid ""
+"Add widgets here to appear in your sidebar on blog posts and archive pages."
+msgstr ""
+
+#: functions.php:96
+msgid "Footer Widget 1"
+msgstr ""
+
+#: functions.php:97 functions.php:107 functions.php:117 functions.php:127
+msgid "Appears on footer"
+msgstr ""
+
+#: functions.php:106
+msgid "Footer Widget 2"
+msgstr ""
+
+#: functions.php:116
+msgid "Footer Widget 3"
+msgstr ""
+
+#: functions.php:126
+msgid "Footer Widget 4"
+msgstr ""
+
+#: functions.php:172
+msgid ""
+"https://www.theclassictemplates.com/wp-themes/free-wordpress-ecommerce-template/"
+msgstr ""
+
+#: functions.php:218
+msgid "About Classic Ecommerce"
+msgstr ""
+
+#: functions.php:222
+msgid "https://www.theclassictemplates.com/themes/"
+msgstr ""
+
+#: functions.php:225
+msgid "https://wordpress.org/support/theme/classic-ecommerce"
+msgstr ""
+
+#: functions.php:228
+msgid "https://wordpress.org/support/theme/classic-ecommerce/reviews/#new-post"
+msgstr ""
+
+#: functions.php:231
+msgid "https://www.theclassictemplates.com/demo/classic-ecommerce/"
+msgstr ""
+
+#: functions.php:234
+msgid ""
+"https://www.theclassictemplates.com/wp-themes/wordpress-ecommerce-template/"
+msgstr ""
+
+#: functions.php:237
+msgid "http://theclassictemplates.com/documentation/classic-ecommerce-free/"
+msgstr ""
+
+#: footer.php:27
+msgid "Ecommerce WordPress Theme"
+msgstr ""
+
+#: footer.php:33
+msgid "TOP"
+msgstr ""

@@ -1,0 +1,19 @@
+To: quangnguyenngoc314@gmail.com
+Subject: =?UTF-8?Q?[H&Q_Furniture]_Th=C3=B4ng_tin_=C4=91=C4=83ng_nh?=
+ =?UTF-8?Q?=E1=BA=ADp?=
+Date: Sun, 31 Mar 2024 11:24:32 +0000
+From: WordPress <wordpress@hq-store.test>
+Message-ID: <Jhu4kpkIWhwbS0utEW7RuDqx1ZH6jvqNpC0D1hf3I@hq-store.test>
+X-Mailer: PHPMailer 6.8.1 (https://github.com/PHPMailer/PHPMailer)
+MIME-Version: 1.0
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 8bit
+
+Tên người dùng: quangnguyen03
+
+Để đặt mật khẩu của bạn, truy cập địa chỉ sau:
+
+http://hq-store.test/wp-login.php?action=rp&key=1vGwORpnLPdBdG5qdM2j&login=quangnguyen03
+
+http://hq-store.test/wp-login.php
+

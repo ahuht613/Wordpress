@@ -1,0 +1,25 @@
+[29-Mar-2024 15:19:19 UTC] PHP Warning:  unlink(C:\Users\Admin\AppData\Local\Temp/wordpress-6.2.4-vi.zip): No such file or directory in D:\Documents\laragon\www\HQ-STORE\wp-admin\includes\class-wp-upgrader.php on line 386
+[30-Mar-2024 05:29:57 UTC] PHP Warning:  Undefined property: WP_Ajax_Upgrader_Skin::$api in D:\Documents\laragon\www\HQ-STORE\wp-admin\includes\class-theme-upgrader.php on line 160
+[30-Mar-2024 05:30:11 UTC] PHP Warning:  Undefined property: WP_Ajax_Upgrader_Skin::$api in D:\Documents\laragon\www\HQ-STORE\wp-admin\includes\class-theme-upgrader.php on line 160
+[30-Mar-2024 05:40:02 UTC] PHP Warning:  Undefined property: WP_Ajax_Upgrader_Skin::$api in D:\Documents\laragon\www\HQ-STORE\wp-admin\includes\class-theme-upgrader.php on line 160
+[30-Mar-2024 05:40:24 UTC] PHP Warning:  Undefined property: WP_Ajax_Upgrader_Skin::$api in D:\Documents\laragon\www\HQ-STORE\wp-admin\includes\class-theme-upgrader.php on line 160
+[30-Mar-2024 05:41:14 UTC] PHP Warning:  Undefined property: WP_Ajax_Upgrader_Skin::$api in D:\Documents\laragon\www\HQ-STORE\wp-admin\includes\class-theme-upgrader.php on line 160
+[30-Mar-2024 05:41:28 UTC] PHP Warning:  Undefined property: WP_Ajax_Upgrader_Skin::$api in D:\Documents\laragon\www\HQ-STORE\wp-admin\includes\class-theme-upgrader.php on line 160
+[30-Mar-2024 05:45:37 UTC] PHP Warning:  Undefined property: WP_Ajax_Upgrader_Skin::$api in D:\Documents\laragon\www\HQ-STORE\wp-admin\includes\class-theme-upgrader.php on line 160
+[30-Mar-2024 05:46:28 UTC] PHP Warning:  Undefined property: WP_Ajax_Upgrader_Skin::$api in D:\Documents\laragon\www\HQ-STORE\wp-admin\includes\class-theme-upgrader.php on line 160
+[30-Mar-2024 05:48:34 UTC] PHP Warning:  Undefined property: WP_Ajax_Upgrader_Skin::$api in D:\Documents\laragon\www\HQ-STORE\wp-admin\includes\class-theme-upgrader.php on line 160
+[30-Mar-2024 05:51:08 UTC] PHP Warning:  Undefined property: WP_Ajax_Upgrader_Skin::$api in D:\Documents\laragon\www\HQ-STORE\wp-admin\includes\class-theme-upgrader.php on line 160
+[30-Mar-2024 05:54:28 UTC] PHP Warning:  Undefined property: WP_Ajax_Upgrader_Skin::$api in D:\Documents\laragon\www\HQ-STORE\wp-admin\includes\class-theme-upgrader.php on line 160
+[30-Mar-2024 05:55:05 UTC] PHP Warning:  Undefined property: WP_Ajax_Upgrader_Skin::$api in D:\Documents\laragon\www\HQ-STORE\wp-admin\includes\class-theme-upgrader.php on line 160
+[30-Mar-2024 05:55:49 UTC] PHP Warning:  Undefined property: WP_Ajax_Upgrader_Skin::$api in D:\Documents\laragon\www\HQ-STORE\wp-admin\includes\class-theme-upgrader.php on line 160
+[30-Mar-2024 05:56:37 UTC] PHP Warning:  Undefined property: WP_Ajax_Upgrader_Skin::$api in D:\Documents\laragon\www\HQ-STORE\wp-admin\includes\class-theme-upgrader.php on line 160
+[30-Mar-2024 05:59:11 UTC] PHP Warning:  Undefined property: WP_Ajax_Upgrader_Skin::$api in D:\Documents\laragon\www\HQ-STORE\wp-admin\includes\class-theme-upgrader.php on line 160
+[30-Mar-2024 07:13:17 UTC] PHP Warning:  Array to string conversion in D:\Documents\laragon\www\HQ-STORE\wp-includes\formatting.php on line 1108
+[30-Mar-2024 07:13:17 UTC] PHP Warning:  Array to string conversion in D:\Documents\laragon\www\HQ-STORE\wp-includes\formatting.php on line 1108
+[30-Mar-2024 07:13:17 UTC] PHP Warning:  Array to string conversion in D:\Documents\laragon\www\HQ-STORE\wp-includes\formatting.php on line 1108
+[30-Mar-2024 08:31:56 UTC] PHP Warning:  Đã xảy ra lỗi không mong muốn. Có thể có sự cố với WordPress.org hoặc cấu hình của máy chủ. Nếu bạn tiếp tục gặp sự cố, vui lòng thử hỏi trong <a href="https://wordpress.org/support/forums/">diễn đàn hỗ trợ</a>. (WordPress không thể thiết lập kết nối an toàn tới WordPress.org. Vui lòng liên hệ quản trị máy chủ của bạn.) in D:\Documents\laragon\www\HQ-STORE\wp-admin\includes\translation-install.php on line 68
+[05-Apr-2024 07:17:49 UTC] PHP Warning:  Trying to access array offset on value of type null in D:\Documents\laragon\www\HQ-STORE\wp-content\themes\newstore\inc\themefarmer-functions.php on line 161
+[05-Apr-2024 07:18:17 UTC] PHP Warning:  Trying to access array offset on value of type null in D:\Documents\laragon\www\HQ-STORE\wp-content\themes\newstore\inc\themefarmer-functions.php on line 161
+[07-Apr-2024 10:37:09 UTC] Lỗi lịch sự kiện Cron cho hook: action_scheduler_run_queue, Mã lỗi: could_not_set, Thông báo lỗi: Không thể lưu danh sách sự kiện cron., Dữ liệu: {"schedule":"every_minute","args":["WP Cron"],"interval":60}
+[14-Apr-2024 18:28:46 UTC] The Automattic\WooCommerce\Admin\API\Options::get_options function is deprecated since version 6.3.
+[14-Apr-2024 18:28:46 UTC] The Automattic\WooCommerce\Admin\API\Options::get_options function is deprecated since version 6.3.

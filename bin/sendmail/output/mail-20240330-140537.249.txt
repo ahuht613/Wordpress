@@ -1,0 +1,28 @@
+To: tranthuha06012003@gmail.com
+Subject: =?UTF-8?Q?[H&Q_Furniture]_Payment_gateway_"Tr=E1=BA=A3_ti?=
+ =?UTF-8?Q?=E1=BB=81n_m=E1=BA=B7t_khi_nh=E1=BA=ADn_h=C3=A0ng"?=
+ =?UTF-8?Q?_enabled?=
+Date: Sat, 30 Mar 2024 07:05:37 +0000
+From: WordPress <wordpress@hq-store.test>
+Message-ID: <fuN8LFd9ujUhx7hOsy1Z0ytz97xdbPjs2aGcfNlps@hq-store.test>
+X-Mailer: PHPMailer 6.8.1 (https://github.com/PHPMailer/PHPMailer)
+MIME-Version: 1.0
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 8bit
+
+Howdy ahuht,
+
+The payment gateway "Trả tiền mặt khi nhận hàng" was just enabled on this site:
+http://hq-store.test
+
+If this was intentional you can safely ignore and delete this email. 
+
+If you did not enable this payment gateway, please log in to your site and consider disabling it here:
+http://hq-store.test/wp-admin/admin.php?page=wc-settings&tab=checkout&section=cod
+
+This email has been sent to tranthuha06012003@gmail.com
+
+Regards,
+All at H&Q Furniture
+http://hq-store.test
+

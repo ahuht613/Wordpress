@@ -1,0 +1,25 @@
+To: tranthuha06012003@gmail.com
+Subject: =?UTF-8?Q?[H&Q_Furniture]_Trang_m=E1=BA=A1ng_c=E1=BB=A7a_b?=
+ =?UTF-8?Q?=E1=BA=A1n_=C4=91=C3=A3_=C4=91=C6=B0=E1=BB=A3c_n?=
+ =?UTF-8?Q?=C3=A2ng_c=E1=BA=A5p_l=C3=AAn_WordPress_6.5.2?=
+Date: Mon, 15 Apr 2024 06:15:30 +0000
+From: WordPress <wordpress@hq-store.test>
+Message-ID: <HFTqebMFvd4RfP3sJI9OXc7145pytnFRAkD532wyUc@hq-store.test>
+X-Mailer: PHPMailer 6.9.1 (https://github.com/PHPMailer/PHPMailer)
+MIME-Version: 1.0
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 8bit
+
+Xin chào! Trang mạng của bạn tại http://hq-store.test đã được tự động nâng cấp lên WordPress 6.5.2.
+
+Bạn không cần làm thêm hành động nào nữa. Để biết thêm thông tin về phiên bản 6.5.2, hãy xem màn hình Về WordPress:
+http://hq-store.test/wp-admin/about.php
+
+Nếu bạn gặp bất cứ vấn đề gì hoặc cần hỗ trợ, các tình nguyện viên tại diễn đàn hỗ trợ của WordPress.org có thể sẵn sàng giúp bạn.
+https://wordpress.org/support/forums/
+
+Có cập nhật cho một vài plugin và giao diện bạn đang dùng. Nâng cấp ngay:
+http://hq-store.test/wp-admin/
+
+Nhóm Phát Triển WordPress
+

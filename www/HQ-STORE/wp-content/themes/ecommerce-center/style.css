@@ -1,0 +1,180 @@
+@charset "UTF-8";
+/*
+Theme Name: Ecommerce Center
+Author: TheMagnifico52
+Theme URI: https://www.themagnifico.net/themes/free-ecommerce-center-wordpress-theme/
+Author URI: https://www.themagnifico.net/
+Description: Ecommerce center is ideal for creating e-commerce websites for clothing, interior store, home appliances shop, fashion store, online shop, Smart Home Products and Accessories, AR/VR Headsets, Hardware furniture shops, gadgets store, clothes eCommerce, tools, retail, equipment store, fashion designer store, apparel, cosmetic, books store, sport shop, baby store, e-business, e-marketing, b2b, e-procurement, kitchen online shop, organic, retail, store, woocommerce website automobile, food selling website, photo store, movies store, toy store, digital product store, affiliate store, jewellery and almost any kind of store. The theme has a modern and luxurious, elegant and retina-ready design. It is user-friendly theme packed with a lot of customization and personalization features. Also, It is SEO-friendly theme which will help your website rank soon on major search engines like Google. You have the option to add shortcodes. It is translation-ready with support for RTL layout. Based on bootstrap framework which makes it handy to use. It is optimized for speed therefore pages load faster. It has secure and clean codes. With social media option you can link all your social media pages to give credibility to your work.
+Version: 0.5
+Tested up to: 6.4
+Requires PHP: 7.2
+Requires at least: 5.0
+License: GNU General Public License v3.0
+License URI: http://www.gnu.org/licenses/gpl-3.0.html
+Template: ecommerce-zone
+Text Domain: ecommerce-center
+Tags: custom-logo, one-column, two-columns, wide-blocks, custom-background, custom-colors, custom-header, custom-menu, block-styles, sticky-post, footer-widgets, editor-style, featured-images, full-width-template, threaded-comments, theme-options, rtl-language-support, left-sidebar, right-sidebar, grid-layout, blog, e-commerce, food-and-drink
+
+Ecommerce Center WordPress Theme has been created by TheMagnifico52(themagnifico.net), 2019.
+Ecommerce Center WordPress Theme is released under the terms of GNU GPL
+*/
+
+.logo-head {
+    background: #ffeccd;
+}
+.logo-head form.woocommerce-product-search {
+    background: #fff;
+}
+#masthead .navbar-brand a {
+    color: #000;
+}
+.main-navigation .menu > li > a:hover, #site-navigation .menu ul li a:hover{
+    color: #fd8e35;
+}
+.main-navigation ul.sub-menu > li > a:hover, .main-navigation ul.sub-menu > li > a:focus {
+    background: #fd8e35;
+    color: #fff !important;
+}
+.article-box h3 a, .article-box span.cat-links a, span.tags-links a, a.post-edit-link, #masthead .navbar-brand a:hover{
+  color: #fc8f25;
+}
+.article-box h3 a:hover, .article-box span.cat-links a:hover, span.tags-links a:hover, a.post-edit-link:hover{
+    color: #35302a;
+}
+.comment-respond input#submit,
+#button,
+.sidebar button[type="submit"],
+.sidebar input[type="submit"],
+span.cart-value,
+.woocommerce ul.products li.product .onsale,
+.woocommerce span.onsale,
+.woocommerce .woocommerce-ordering select,
+.pro-button a:hover,
+.woocommerce #respond input#submit:hover,
+.woocommerce a.button:hover,
+.woocommerce button.button:hover,
+.woocommerce input.button:hover,
+.woocommerce #respond input#submit.alt:hover,
+.woocommerce a.button.alt:hover,
+.woocommerce button.button.alt:hover,
+.woocommerce input.button.alt:hover,
+.woocommerce-account .woocommerce-MyAccount-navigation ul li{
+    background: #fc8f25;
+}
+.datebox {
+    background: #35302a;
+    text-align: center;
+    padding: 10px;
+}
+.datebox a {
+    color: #fff;
+    font-size: 18px;
+    font-weight: bold;
+}
+.yearwrap {
+    border-top: solid 1px #fff;
+    padding-top: 5px;
+}
+.serv-box h4 {
+    font-size: 18px;
+}
+#colophon a:hover, #colophon a:focus{
+  color: #fc8f25;
+}
+.btn-primary{
+  background: #fc8f25;
+}
+#serve-sec h3 {
+    background: #f8f8f8;
+    border: solid 1px #ebebeb;
+    border-bottom: solid 1px #fd8e35;
+    font-size: 22px;
+    font-weight: bold;
+    padding: 12px;
+    margin-bottom: 35px;
+    color: #444444;
+}
+.sidebar h5{
+	background: #35302a;
+}
+.navbar-brand {
+    display: block !important;
+}
+.stick_header{
+  position:fixed;
+  width: 100%;
+  z-index: 999;
+  top: 0;
+}
+.admin-bar .head-menu.stick_header {
+    margin-top: 32px;
+    background: #fd8e35;
+}
+.dot {
+  height: 20px;
+  width: 20px;
+  border-radius: 50%;
+  display: inline-block;
+  margin: 6px;
+  animation: loading 2s cubic-bezier(0.45, 0, 0.55, 1) infinite;
+}
+
+.loading {
+  background-color: #fff;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100%;
+  width: 100%;
+  position: fixed;
+  z-index: 99999;
+}
+
+@keyframes loading {
+  0%,
+  100% {
+    transform: translatey(-2.5rem);
+    background-color: #fff;
+  }
+  50% {
+    transform: translatey(2.5rem);
+    background-color: #fc8f25;
+  }
+}
+a.added_to_cart.wc-forward {
+    border: 2px solid #444;
+    padding: 8px 18px;
+    text-transform: inherit;
+    font-size: 10px;
+    background: transparent;
+    margin-top: 10px;
+}
+a.added_to_cart.wc-forward:hover {
+    color: #fff;
+    background: #fd8e35;
+}
+.pro-button a{
+    text-transform: inherit;
+}
+
+@media screen and (max-width: 1000px){
+    .main-navigation .sub-menu {
+        position: static !important;
+        background: transparent;
+    }
+    .main-navigation ul.sub-menu > li > a:hover, .main-navigation ul.sub-menu > li > a:focus{
+        background: transparent;
+        color: #fc8f25 !important;
+    }
+}
+@media screen and (min-width: 768px) and (max-width: 1000px){
+.admin-bar .head-menu.stick_header{
+  margin-top: 46px;
+}
+}
+
+@media screen and (max-width: 425px){
+  .socialmedia {
+      text-align: center;
+  }
+}

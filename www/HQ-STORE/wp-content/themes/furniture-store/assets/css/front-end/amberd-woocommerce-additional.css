@@ -1,0 +1,17 @@
+.wc-block-components-notice-banner>.wc-block-components-notice-banner__content .wc-forward {
+	padding: 10px 10px!important;
+	float:right;
+	opacity: 1!important;
+	text-decoration: none!important;
+	background: #7a5bfb!important;
+	color: #ffffff!important;
+	border: 2px solid #7a5bfb;
+	-webkit-transition: ease-out 0.5s!important;
+	-moz-transition: ease-out 0.5s!important;
+	transition: ease-out 0.5s!important;
+}
+.wc-block-components-notice-banner>.wc-block-components-notice-banner__content .wc-forward:hover {
+	color: #7a5bfb;
+	border: 2px solid #7a5bfb;
+	box-shadow: inset 400px 0 0 0 #ffffff;
+}
